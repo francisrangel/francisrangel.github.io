@@ -1,0 +1,14 @@
+# Site settings
+title: Francis Rangel
+email: contact@francisrangel.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my personal website. Here you are going to find posts
+  about technology, programming, problem solving and other things
+  I like and want to share!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://francisrangel.com" # the base hostname & protocol for your site
+twitter_username: francisrangel
+github_username:  francisrangel
+
+# Build settings
+markdown: kramdown
