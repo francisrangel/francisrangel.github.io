@@ -1,18 +1,21 @@
 url: 'http://francisrangel.com'
 baseurl: ''
 title: Francis Rangel
-description: Welcome to my personal blog! 
+description: Welcome to my personal blog!
 email: contact@francisrangel.com
 url-pretty: 'francisrangel.com'
 avatar: '/img/avatar.jpg'
-  
+
+navbar-links:
+  Home: ''
+
 author:
   name: Francis Rangel
   email: ''
   github: francisrangel
   twitter: francisrangel
   linkedin: in/francisrangel/en
- 
+
 footer-links-active:
   rss: false
   facebook: false
