@@ -1,14 +1,56 @@
-# Site settings
+url: 'http://francisrangel.com'
+baseurl: ''
 title: Francis Rangel
+description: Welcome to my personal blog! 
 email: contact@francisrangel.com
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website. Here you are going to find posts
-  about technology, programming, problem solving and other things
-  I like and want to share!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://francisrangel.com" # the base hostname & protocol for your site
-twitter_username: francisrangel
-github_username:  francisrangel
+url-pretty: 'francisrangel.com'
+avatar: '/img/avatar.jpg'
 
-# Build settings
+navbar-links:
+  Home: ''
+  About Me: 'about'
+  
+author:
+  name: Francis Rangel
+  email: 'contact@francisrangel.com'
+  github: francisrangel
+  twitter: francisrangel
+  linkedin: in/francisrangel/en
+ 
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: true
+  github: true
+  linkedin: true
+  stackoverflow: false
+
+disqus: 'francisrangel'
+
+#google_analytics: ''
+
+timezone: 'Brasilia'
 markdown: kramdown
+highlighter: pygments
+permalink: /:year-:month-:day-:title
+paginate: 5
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      comments: true
+  -
+    scope:
+      path: '' # all files
+    values:
+      layout: 'default'
+
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+
