@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first blog post"
+title:  "My first blog post ever"
 date:   2015-10-27 22:57:39
 categories: jekyll update github
 ---

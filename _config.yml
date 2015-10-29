@@ -5,14 +5,10 @@ description: Welcome to my personal blog!
 email: contact@francisrangel.com
 url-pretty: 'francisrangel.com'
 avatar: '/img/avatar.jpg'
-
-navbar-links:
-  Home: ''
-  About Me: 'about'
   
 author:
   name: Francis Rangel
-  email: 'contact@francisrangel.com'
+  email: ''
   github: francisrangel
   twitter: francisrangel
   linkedin: in/francisrangel/en
@@ -20,7 +16,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  email: false
   twitter: true
   github: true
   linkedin: true
