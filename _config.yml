@@ -27,7 +27,7 @@ footer-links-active:
 
 disqus: 'francisrangel'
 
-#google_analytics: ''
+google_analytics: 'UA-69449494-1'
 
 timezone: 'Brasilia'
 markdown: kramdown
