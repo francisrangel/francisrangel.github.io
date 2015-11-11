@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a blog with GoDaddy domain, Github pages and Jekyll"
-date:   2015-11-09
+date:   2015-11-10 22:22:00
 categories:
   - jekyll
   - update
