@@ -20,7 +20,7 @@ Let's start with the Github pages. [The tutorial](https://pages.github.com/) is 
 
 At the end of the Github Pages tutorial, there's a link to [Blogging with Jekyll](https://help.github.com/articles/using-jekyll-with-pages/). I was interested in this because we need a static website to host on Github pages. [Jekyll](http://jekyllrb.com/) is a widely known static website generator and it uses some Ruby, which I feel comfortable with. You can read its tutorial then try to create a new website, tweak it and see how it looks. Once you push your changes to the repository, it's going to be built and put in place.
 
-After creating the website, you probably want to change the theme. All the files can be referenced using relative paths, so it's easy to create HTML partials, CSS and Javascript. If you dont want to design from scratch, there are some websites with free templates. I checked [Jekyll Themes](http://jekyllthemes.org/) and [Jekyll Themes & Templates](http://jekyllthemes.io/). The later one has paid options as well.
+After creating the website, you probably want to change the theme. All the files can be referenced using relative paths, so it's easy to create HTML partials, CSS and Javascript. If you don't want to design from scratch, there are some websites with free templates. I checked [Jekyll Themes](http://jekyllthemes.org/) and [Jekyll Themes & Templates](http://jekyllthemes.io/). The later one has paid options as well.
 
 There are three ways of working with a theme:
 
