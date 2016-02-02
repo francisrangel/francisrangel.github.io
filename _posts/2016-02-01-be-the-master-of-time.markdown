@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Be the Master of Time"
-date:   2015-12-13
+date:   2016-02-01
 categories:
 - coding
 - java
