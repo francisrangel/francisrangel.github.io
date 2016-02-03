@@ -3,9 +3,9 @@ layout: post
 title:  "Be the Master of Time"
 date:   2016-02-01
 categories:
-- coding
-- java
-- object-orientation
+  - coding
+  - java
+  - object-orientation
 ---
 Hello folks,
 
