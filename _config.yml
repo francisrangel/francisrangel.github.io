@@ -31,7 +31,7 @@ google_analytics: 'UA-69449494-1'
 
 timezone: 'Brasilia'
 markdown: kramdown
-highlighter: rouge
+highlighter: pygment
 permalink: /:year-:month-:day-:title
 paginate: 5
 
