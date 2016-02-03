@@ -7,6 +7,7 @@ categories:
   - java
   - object-orientation
 ---
+
 Hello folks,
 
 In this post I will talk about ways not to have a bad time - pun intended - writing date and time sensitive code.
